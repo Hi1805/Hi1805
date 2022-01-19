@@ -134,7 +134,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=john1805&theme=tokyonight&row=2&column=4">
 </p> -->
 
-## <p align="center">Top langs :tongue:</p>
+## <p align="center">Top languages :tongue:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john1805&langs_count=20&theme=dark&layout=compact" alt="john1805 :: Top Langs" /></p>
 
