@@ -1,7 +1,7 @@
 # <p align="center">Hi  I'm Huy, I am web developer !!!</p>
 
 <p align="center">
-	<a href="https://github.com/john1805">
+	<a href="https://github.com/Hi1805">
 	<img src="https://avatars.githubusercontent.com/u/59696851?v=4" width = "200" alt="john1805">
 	</a>
 </p>
@@ -22,40 +22,7 @@
 ```
 
 <!-- ## <p align="center">You can reach me at 🌹</p>
- -->
-<!-- <p align="center">
-  <a href="https://www.facebook.com/ngoctien.TNT">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
-  </a>
-	
-  <a href="https://github.com/ngoctienTNT">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-  
-  <a href="https://dev.to/ngoctientnt">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-  </a>
-	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-  </a>
-  
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
-  </a>
-	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  </a>
-  
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/c/ThienLongTNT">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
-  </a>
-</p>
+
  -->
 <!-- ## <p align="center">What I use :alien:</p>
 
@@ -136,17 +103,17 @@
 
 ## <p align="center">Top languages :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john1805&langs_count=20&theme=dark&layout=compact" alt="john1805 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi1805&langs_count=20&theme=dark&layout=compact" alt="Hi1805 :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=john1805&show_icons=true&theme=dark" alt="john1805 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hi1805&show_icons=true&theme=dark" alt="john1805 :: Profile Stats" /></p>
 
 
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=john1805&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Hi1805&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
