@@ -15,8 +15,8 @@
         mainLanguage:"Javascript, Typescript",
         frontend:"Reactjs, Boostrap, Atn-design...",
         backend:"Nodejs, ExpressJs, NestJs",
-        database:"Mysql, Firebase",
-        learning:"Docker, MongoDB ....",
+        database:"Mysql, Firebase, PostgreSQL",
+        devops:"Docker, ...",
       }
   }
 ```
